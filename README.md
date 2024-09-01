@@ -11,10 +11,10 @@ My name is Sunny Yuan
 
 
 ### 🔭 Professional experience
-- SWE & PM intern @ [Marginnote](https://www.marginnote.com/), one of the most popular note-taking APP in Apple Store!
-- SWE intern @ EDUrain (TechStar 23'), my first internship in an early-stage start-up, where I learned about start-up culture and experienced wearing 1000 hats at work!
+- PM intern @ [Marginnote](https://www.marginnote.com/), one of the most popular note-taking APP in Apple Store!
+- SWE & PM intern @ EDUrain (TechStar 23'), my first internship in an early-stage start-up, where I learned about start-up culture and experienced wearing 1000 hats at work!
 - SWE intern @ LessAnnoyingCRM, a CRM company for small businesses. I designed and developed a set of [Email Restful APIs](https://account.lessannoyingcrm.com/api_docs/v2/Core_Functions/Emails)
-- SWE intern @ Microsoft Azure Edge & Platform, cool cloud, cool people!💬
+- SWE intern @ Microsoft Azure Edge & Platform, cool cloud, cool people!💬 Redesigned a cloud networking tool in Go-lang, and significantly improved product security, visibility, and supportability.
 
 
 ### 🌱 Building is my love language
