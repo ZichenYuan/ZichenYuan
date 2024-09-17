@@ -20,6 +20,7 @@ My name is Sunny Yuan
 ### 🌱 Building is my love language
 - I built [3dReal](https://devpost.com/software/3dreal), inspired by beReal to build an accessible, fast, and easy-to-use IOS app to create 3d models from mobile devices, allowing people to relive in shared memories.
 - Grand Prize Winner at [TreeHacks](https://www.treehacks.com/), biggest college hackathon in the US, hosted by Stanford.
+- Third Prize Winner At [HackMIT](https://hackmit.org/) "Best use of GenAI using InerSystems IRIS Vector Search" with my project [Rewind](https://ballot.hackmit.org/project/dicbb-jczbc-nylxm-mcqsf).
 - I hack with AI:
   - [LegalEase](https://hackbox.microsoft.com/hackathons/InternHacks2024/project/61784)
   - [StockSage AI](https://devpost.com/software/fintech-crypto)
