@@ -5,9 +5,8 @@
 My name is Sunny Yuan
 - 😄 Pronouns: She/her
 - I study CS, Maths, and business
-- In school, I led the [Pupper AI team](https://washurobotics.com/Projects/pupper) of WashU robotics club, where we build AI, computer vision, and machine learning projects on a Stanford quadruped robot that can interact with its environment.
-- President of WICS [Women in Computer Science](https://www.wics.wustl.edu/). I am dedicated for gender inclusion in the tech field.
-- I am also proud to become part of the [Mckelvey Build Fellows](https://www.mckelveyfellowship.com/), a group of student leaders in business and tech!
+- In school, I led the [Pupper AI team](https://washurobotics.com/Projects/pupper) of WashU robotics club, where we build AI, computer vision, and machine learning projects on a Stanford quadruped robot that can interact with its environment, and WICS [Women in Computer Science](https://www.wics.wustl.edu/).
+- I am also part of the [Mckelvey Build Fellows](https://www.mckelveyfellowship.com/), a group of student leaders in business and tech!
 
 
 ### 🔭 Professional experience
