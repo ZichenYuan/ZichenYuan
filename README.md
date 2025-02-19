@@ -22,6 +22,7 @@ My name is Sunny Yuan
 - I hack with AI:
   - [LegalEase](https://hackbox.microsoft.com/hackathons/InternHacks2024/project/61784)
   - [StockSage AI](https://devpost.com/software/fintech-crypto)
+  - [FlowScope](https://devpost.com/software/flowscope-global-dynamics-visualizer)
 
 
 ### 📫 How to reach me
