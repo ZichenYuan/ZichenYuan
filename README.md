@@ -20,7 +20,11 @@ My name is Sunny Yuan
 - [Rewind](https://github.com/rachruby/HackMIT2024).
 - [StockSage AI](https://devpost.com/software/fintech-crypto)
 - [FlowScope](https://devpost.com/software/flowscope-global-dynamics-visualizer)
-- winner of TreeHacks and HackMIT
+- [Ai agent for google sheets] (https://github.com/ZichenYuan/hungry_llama_)
+- Winner of TreeHacks and HackMIT
+
+### I am working on
+- LLM agent for medical code autocoding
 
 
 ### 📫 How to reach me
