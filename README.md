@@ -17,7 +17,7 @@ My name is Sunny Yuan
 
 ### 🌱 Building is my love language
 - [3dReal](https://devpost.com/software/3dreal), inspired by beReal to build an accessible, fast, and easy-to-use IOS app to create 3d models from mobile devices, allowing people to relive in shared memories.
-- [Rewind](https://github.com/rachruby/HackMIT2024).
+- [Rewind](https://github.com/rachruby/HackMIT2024), a genAI powered 3d memory database.
 - [StockSage AI](https://devpost.com/software/fintech-crypto)
 - [FlowScope](https://devpost.com/software/flowscope-global-dynamics-visualizer)
 - [Ai agent for google sheets](https://github.com/ZichenYuan/hungry_llama_)
